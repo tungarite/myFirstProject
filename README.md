@@ -1,6 +1,6 @@
 # myFirstProject
 
-## How to run this project
+## How to run this Selenium Java project
 
 0. Download and install ChromeDriver from this link: https://chromedriver.chromium.org/
 
